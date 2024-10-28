@@ -40,13 +40,15 @@ string[] awardTypes = { "IkeaFoodCoupon", "IkeaDeliveryCheck", "IkeaCheck", "Gif
 
 for (int i = 0; i < mapData.gameLengthInMonths; i++)
 {
-    var x = new CustomerActionIteration();
-    input.Iterations.Add(x);
+    //var x = new CustomerActionIteration();
+    //input.Iterations.Add(x);
+    Dictionary<string, CustomerAction> t = new();
+    input.Iterations.Add(t);
     foreach (var customer in mapData.customers)
     {
         string randomType = actionTypes[random.Next(actionTypes.Length)];
         string randomAward = randomType == "Skip" ? "None" : awardTypes[random.Next(awardTypes.Length)];
-        x.CustomerActions.Add(customer.name, new CustomerAction
+        t.Add(customer.name, new CustomerAction
         {
             Type = randomType,
             Award = randomAward
@@ -61,5 +63,5 @@ request.Headers.Add("x-api-key", apiKey);
 request.Content = new StringContent(JsonConvert.SerializeObject(input), Encoding.UTF8, "application/json");
 
 var res = client.Send(request);
-
+Console.WriteLine(res.StatusCode);
 Console.WriteLine(await res.Content.ReadAsStringAsync());

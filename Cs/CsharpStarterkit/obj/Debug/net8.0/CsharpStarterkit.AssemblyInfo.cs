@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CsharpStarterkit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c20f1b2a357c96b15f51e6fbc50ce5728dd36f54")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c52d46a8fc0b6ed5f8c1af640e88ea069eb7da97")]
 [assembly: System.Reflection.AssemblyProductAttribute("CsharpStarterkit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CsharpStarterkit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

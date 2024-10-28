@@ -12,18 +12,13 @@ public class GameInput
 {
     public required string MapName { get; init; }
     public required List<CustomerLoanRequestProposal> Proposals { get; init; }
-    public required List<CustomerActionIteration> Iterations { get; init; }
+    public required List<Dictionary<string, CustomerAction>> Iterations { get; init; }
 }
 public class CustomerLoanRequestProposal
 {
     public string CustomerName { get; set; } = null!;
     public decimal YearlyInterestRate { get; set; }
     public int MonthsToPayBackLoan { get; set; }
-}
-
-public class CustomerActionIteration
-{
-    public Dictionary<string, CustomerAction> CustomerActions = [];
 }
 
 public enum CustomerActionType
