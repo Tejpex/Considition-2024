@@ -1,382 +1,382 @@
 {
-  "Name": "Nottingham",
-  "Budget": 10000000,
-  "GameLengthInMonths": 36,
-  "Customers": [
+  "name": "Nottingham",
+  "budget": 10000000,
+  "gameLengthInMonths": 36,
+  "customers": [
     {
-      "Name": "Braden Schneider",
-      "Loan": {
-        "Product": "Football tickets",
-        "EnvironmentalImpact": 100,
-        "Amount": 9000
+      "name": "Braden Schneider",
+      "loan": {
+        "product": "Football tickets",
+        "environmentalImpact": 100,
+        "amount": 9000
       },
-      "Personality": "Practical",
-      "Capital": 2950600,
-      "Income": 38400,
-      "MonthlyExpenses": 40200,
-      "NumberOfKids": 5,
-      "Mortgage": 365600,
-      "HasStudentLoans": true
+      "personality": "Practical",
+      "capital": 2950600,
+      "income": 38400,
+      "monthlyExpenses": 40200,
+      "numberOfKids": 5,
+      "mortgage": 365600,
+      "hasStudentLoans": true
     },
     {
-      "Name": "Shaina Swaniawski",
-      "Loan": {
-        "Product": "Sailbot",
-        "EnvironmentalImpact": 100,
-        "Amount": 1342500
+      "name": "Shaina Swaniawski",
+      "loan": {
+        "product": "Sailbot",
+        "environmentalImpact": 100,
+        "amount": 1342500
       },
-      "Personality": "Practical",
-      "Capital": 7368100,
-      "Income": 63200,
-      "MonthlyExpenses": 61600,
-      "NumberOfKids": 5,
-      "Mortgage": 4825400,
-      "HasStudentLoans": false
+      "personality": "Practical",
+      "capital": 7368100,
+      "income": 63200,
+      "monthlyExpenses": 61600,
+      "numberOfKids": 5,
+      "mortgage": 4825400,
+      "hasStudentLoans": false
     },
     {
-      "Name": "Dereck Green",
-      "Loan": {
-        "Product": "E-bike",
-        "EnvironmentalImpact": 100,
-        "Amount": 42300
+      "name": "Dereck Green",
+      "loan": {
+        "product": "E-bike",
+        "environmentalImpact": 100,
+        "amount": 42300
       },
-      "Personality": "Innovative",
-      "Capital": 110100,
-      "Income": 97100,
-      "MonthlyExpenses": 85200,
-      "NumberOfKids": 5,
-      "Mortgage": 0,
-      "HasStudentLoans": false
+      "personality": "Innovative",
+      "capital": 110100,
+      "income": 97100,
+      "monthlyExpenses": 85200,
+      "numberOfKids": 5,
+      "mortgage": 0,
+      "hasStudentLoans": false
     },
     {
-      "Name": "Bethel Wiza",
-      "Loan": {
-        "Product": "Vacation",
-        "EnvironmentalImpact": 0,
-        "Amount": 160800
+      "name": "Bethel Wiza",
+      "loan": {
+        "product": "Vacation",
+        "environmentalImpact": 0,
+        "amount": 160800
       },
-      "Personality": "Spontaneous",
-      "Capital": 8715400,
-      "Income": 42400,
-      "MonthlyExpenses": 51900,
-      "NumberOfKids": 3,
-      "Mortgage": 2959800,
-      "HasStudentLoans": true
+      "personality": "Spontaneous",
+      "capital": 8715400,
+      "income": 42400,
+      "monthlyExpenses": 51900,
+      "numberOfKids": 3,
+      "mortgage": 2959800,
+      "hasStudentLoans": true
     },
     {
-      "Name": "Maida Beier",
-      "Loan": {
-        "Product": "Diesel car",
-        "EnvironmentalImpact": 0,
-        "Amount": 215500
+      "name": "Maida Beier",
+      "loan": {
+        "product": "Diesel car",
+        "environmentalImpact": 0,
+        "amount": 215500
       },
-      "Personality": "RiskTaker",
-      "Capital": 496000,
-      "Income": 23700,
-      "MonthlyExpenses": 97600,
-      "NumberOfKids": 5,
-      "Mortgage": 8714600,
-      "HasStudentLoans": true
+      "personality": "RiskTaker",
+      "capital": 496000,
+      "income": 23700,
+      "monthlyExpenses": 97600,
+      "numberOfKids": 5,
+      "mortgage": 8714600,
+      "hasStudentLoans": true
     },
     {
-      "Name": "Linnie Weimann",
-      "Loan": {
-        "Product": "Vacation",
-        "EnvironmentalImpact": 0,
-        "Amount": 226000
+      "name": "Linnie Weimann",
+      "loan": {
+        "product": "Vacation",
+        "environmentalImpact": 0,
+        "amount": 226000
       },
-      "Personality": "RiskTaker",
-      "Capital": 8614500,
-      "Income": 94600,
-      "MonthlyExpenses": 17600,
-      "NumberOfKids": 9,
-      "Mortgage": 0,
-      "HasStudentLoans": true
+      "personality": "RiskTaker",
+      "capital": 8614500,
+      "income": 94600,
+      "monthlyExpenses": 17600,
+      "numberOfKids": 9,
+      "mortgage": 0,
+      "hasStudentLoans": true
     },
     {
-      "Name": "Myrtle Dare",
-      "Loan": {
-        "Product": "Vacation",
-        "EnvironmentalImpact": 0,
-        "Amount": 289800
+      "name": "Myrtle Dare",
+      "loan": {
+        "product": "Vacation",
+        "environmentalImpact": 0,
+        "amount": 289800
       },
-      "Personality": "Conservative",
-      "Capital": 8923000,
-      "Income": 76300,
-      "MonthlyExpenses": 34300,
-      "NumberOfKids": 1,
-      "Mortgage": 0,
-      "HasStudentLoans": true
+      "personality": "Conservative",
+      "capital": 8923000,
+      "income": 76300,
+      "monthlyExpenses": 34300,
+      "numberOfKids": 1,
+      "mortgage": 0,
+      "hasStudentLoans": true
     },
     {
-      "Name": "Dawson Streich",
-      "Loan": {
-        "Product": "Motorboat",
-        "EnvironmentalImpact": 0,
-        "Amount": 602800
+      "name": "Dawson Streich",
+      "loan": {
+        "product": "Motorboat",
+        "environmentalImpact": 0,
+        "amount": 602800
       },
-      "Personality": "Practical",
-      "Capital": 4790700,
-      "Income": 86300,
-      "MonthlyExpenses": 53900,
-      "NumberOfKids": 10,
-      "Mortgage": 0,
-      "HasStudentLoans": true
+      "personality": "Practical",
+      "capital": 4790700,
+      "income": 86300,
+      "monthlyExpenses": 53900,
+      "numberOfKids": 10,
+      "mortgage": 0,
+      "hasStudentLoans": true
     },
     {
-      "Name": "Conner Wolff",
-      "Loan": {
-        "Product": "E-bike",
-        "EnvironmentalImpact": 100,
-        "Amount": 16900
+      "name": "Conner Wolff",
+      "loan": {
+        "product": "E-bike",
+        "environmentalImpact": 100,
+        "amount": 16900
       },
-      "Personality": "RiskTaker",
-      "Capital": 415900,
-      "Income": 76000,
-      "MonthlyExpenses": 47200,
-      "NumberOfKids": 10,
-      "Mortgage": 0,
-      "HasStudentLoans": true
+      "personality": "RiskTaker",
+      "capital": 415900,
+      "income": 76000,
+      "monthlyExpenses": 47200,
+      "numberOfKids": 10,
+      "mortgage": 0,
+      "hasStudentLoans": true
     },
     {
-      "Name": "Brandy Rice",
-      "Loan": {
-        "Product": "Solar panels",
-        "EnvironmentalImpact": 100,
-        "Amount": 724000
+      "name": "Brandy Rice",
+      "loan": {
+        "product": "Solar panels",
+        "environmentalImpact": 100,
+        "amount": 724000
       },
-      "Personality": "Spontaneous",
-      "Capital": 1939900,
-      "Income": 3000,
-      "MonthlyExpenses": 17500,
-      "NumberOfKids": 6,
-      "Mortgage": 9131400,
-      "HasStudentLoans": false
+      "personality": "Spontaneous",
+      "capital": 1939900,
+      "income": 3000,
+      "monthlyExpenses": 17500,
+      "numberOfKids": 6,
+      "mortgage": 9131400,
+      "hasStudentLoans": false
     },
     {
-      "Name": "Halie OConner",
-      "Loan": {
-        "Product": "Student loans",
-        "EnvironmentalImpact": 0,
-        "Amount": 971500
+      "name": "Halie OConner",
+      "loan": {
+        "product": "Student loans",
+        "environmentalImpact": 0,
+        "amount": 971500
       },
-      "Personality": "Practical",
-      "Capital": 4784200,
-      "Income": 75100,
-      "MonthlyExpenses": 85800,
-      "NumberOfKids": 9,
-      "Mortgage": 0,
-      "HasStudentLoans": true
+      "personality": "Practical",
+      "capital": 4784200,
+      "income": 75100,
+      "monthlyExpenses": 85800,
+      "numberOfKids": 9,
+      "mortgage": 0,
+      "hasStudentLoans": true
     },
     {
-      "Name": "Ofelia Gleichner",
-      "Loan": {
-        "Product": "Motorboat",
-        "EnvironmentalImpact": 0,
-        "Amount": 1832600
+      "name": "Ofelia Gleichner",
+      "loan": {
+        "product": "Motorboat",
+        "environmentalImpact": 0,
+        "amount": 1832600
       },
-      "Personality": "Spontaneous",
-      "Capital": 8282100,
-      "Income": 23600,
-      "MonthlyExpenses": 75900,
-      "NumberOfKids": 10,
-      "Mortgage": 4278400,
-      "HasStudentLoans": true
+      "personality": "Spontaneous",
+      "capital": 8282100,
+      "income": 23600,
+      "monthlyExpenses": 75900,
+      "numberOfKids": 10,
+      "mortgage": 4278400,
+      "hasStudentLoans": true
     },
     {
-      "Name": "Nikki Paucek",
-      "Loan": {
-        "Product": "Student loans",
-        "EnvironmentalImpact": 100,
-        "Amount": 864900
+      "name": "Nikki Paucek",
+      "loan": {
+        "product": "Student loans",
+        "environmentalImpact": 100,
+        "amount": 864900
       },
-      "Personality": "Practical",
-      "Capital": 7902500,
-      "Income": 13000,
-      "MonthlyExpenses": 30400,
-      "NumberOfKids": 2,
-      "Mortgage": 8544100,
-      "HasStudentLoans": true
+      "personality": "Practical",
+      "capital": 7902500,
+      "income": 13000,
+      "monthlyExpenses": 30400,
+      "numberOfKids": 2,
+      "mortgage": 8544100,
+      "hasStudentLoans": true
     },
     {
-      "Name": "Dandre Legros",
-      "Loan": {
-        "Product": "Football tickets",
-        "EnvironmentalImpact": 100,
-        "Amount": 6900
+      "name": "Dandre Legros",
+      "loan": {
+        "product": "Football tickets",
+        "environmentalImpact": 100,
+        "amount": 6900
       },
-      "Personality": "Conservative",
-      "Capital": 6323700,
-      "Income": 20500,
-      "MonthlyExpenses": 6500,
-      "NumberOfKids": 8,
-      "Mortgage": 3135400,
-      "HasStudentLoans": true
+      "personality": "Conservative",
+      "capital": 6323700,
+      "income": 20500,
+      "monthlyExpenses": 6500,
+      "numberOfKids": 8,
+      "mortgage": 3135400,
+      "hasStudentLoans": true
     },
     {
-      "Name": "Eli Thompson",
-      "Loan": {
-        "Product": "Car charger",
-        "EnvironmentalImpact": 100,
-        "Amount": 25000
+      "name": "Eli Thompson",
+      "loan": {
+        "product": "Car charger",
+        "environmentalImpact": 100,
+        "amount": 25000
       },
-      "Personality": "Conservative",
-      "Capital": 7691000,
-      "Income": 57600,
-      "MonthlyExpenses": 51600,
-      "NumberOfKids": 7,
-      "Mortgage": 8661600,
-      "HasStudentLoans": true
+      "personality": "Conservative",
+      "capital": 7691000,
+      "income": 57600,
+      "monthlyExpenses": 51600,
+      "numberOfKids": 7,
+      "mortgage": 8661600,
+      "hasStudentLoans": true
     },
     {
-      "Name": "Anais Will",
-      "Loan": {
-        "Product": "E-bike",
-        "EnvironmentalImpact": 100,
-        "Amount": 27700
+      "name": "Anais Will",
+      "loan": {
+        "product": "E-bike",
+        "environmentalImpact": 100,
+        "amount": 27700
       },
-      "Personality": "Innovative",
-      "Capital": 9246300,
-      "Income": 64500,
-      "MonthlyExpenses": 17900,
-      "NumberOfKids": 8,
-      "Mortgage": 6169000,
-      "HasStudentLoans": true
+      "personality": "Innovative",
+      "capital": 9246300,
+      "income": 64500,
+      "monthlyExpenses": 17900,
+      "numberOfKids": 8,
+      "mortgage": 6169000,
+      "hasStudentLoans": true
     },
     {
-      "Name": "Melvina Metz",
-      "Loan": {
-        "Product": "E-bike",
-        "EnvironmentalImpact": 100,
-        "Amount": 29200
+      "name": "Melvina Metz",
+      "loan": {
+        "product": "E-bike",
+        "environmentalImpact": 100,
+        "amount": 29200
       },
-      "Personality": "Spontaneous",
-      "Capital": 8611100,
-      "Income": 9200,
-      "MonthlyExpenses": 8000,
-      "NumberOfKids": 7,
-      "Mortgage": 9372200,
-      "HasStudentLoans": false
+      "personality": "Spontaneous",
+      "capital": 8611100,
+      "income": 9200,
+      "monthlyExpenses": 8000,
+      "numberOfKids": 7,
+      "mortgage": 9372200,
+      "hasStudentLoans": false
     },
     {
-      "Name": "Nona Lang",
-      "Loan": {
-        "Product": "Car charger",
-        "EnvironmentalImpact": 100,
-        "Amount": 58000
+      "name": "Nona Lang",
+      "loan": {
+        "product": "Car charger",
+        "environmentalImpact": 100,
+        "amount": 58000
       },
-      "Personality": "Innovative",
-      "Capital": 7563200,
-      "Income": 27500,
-      "MonthlyExpenses": 54800,
-      "NumberOfKids": 6,
-      "Mortgage": 2330700,
-      "HasStudentLoans": true
+      "personality": "Innovative",
+      "capital": 7563200,
+      "income": 27500,
+      "monthlyExpenses": 54800,
+      "numberOfKids": 6,
+      "mortgage": 2330700,
+      "hasStudentLoans": true
     },
     {
-      "Name": "Ally Keeling",
-      "Loan": {
-        "Product": "Electric car",
-        "EnvironmentalImpact": 100,
-        "Amount": 1541000
+      "name": "Ally Keeling",
+      "loan": {
+        "product": "Electric car",
+        "environmentalImpact": 100,
+        "amount": 1541000
       },
-      "Personality": "RiskTaker",
-      "Capital": 8379900,
-      "Income": 48600,
-      "MonthlyExpenses": 86900,
-      "NumberOfKids": 8,
-      "Mortgage": 635900,
-      "HasStudentLoans": true
+      "personality": "RiskTaker",
+      "capital": 8379900,
+      "income": 48600,
+      "monthlyExpenses": 86900,
+      "numberOfKids": 8,
+      "mortgage": 635900,
+      "hasStudentLoans": true
     },
     {
-      "Name": "Bernice Mueller",
-      "Loan": {
-        "Product": "E-bike",
-        "EnvironmentalImpact": 100,
-        "Amount": 23200
+      "name": "Bernice Mueller",
+      "loan": {
+        "product": "E-bike",
+        "environmentalImpact": 100,
+        "amount": 23200
       },
-      "Personality": "Spontaneous",
-      "Capital": 1526800,
-      "Income": 88700,
-      "MonthlyExpenses": 30600,
-      "NumberOfKids": 3,
-      "Mortgage": 0,
-      "HasStudentLoans": false
+      "personality": "Spontaneous",
+      "capital": 1526800,
+      "income": 88700,
+      "monthlyExpenses": 30600,
+      "numberOfKids": 3,
+      "mortgage": 0,
+      "hasStudentLoans": false
     },
     {
-      "Name": "Ariel Prohaska",
-      "Loan": {
-        "Product": "Sailbot",
-        "EnvironmentalImpact": 100,
-        "Amount": 2588700
+      "name": "Ariel Prohaska",
+      "loan": {
+        "product": "Sailbot",
+        "environmentalImpact": 100,
+        "amount": 2588700
       },
-      "Personality": "Conservative",
-      "Capital": 4668100,
-      "Income": 51200,
-      "MonthlyExpenses": 11200,
-      "NumberOfKids": 0,
-      "Mortgage": 9996900,
-      "HasStudentLoans": true
+      "personality": "Conservative",
+      "capital": 4668100,
+      "income": 51200,
+      "monthlyExpenses": 11200,
+      "numberOfKids": 0,
+      "mortgage": 9996900,
+      "hasStudentLoans": true
     },
     {
-      "Name": "Dejon Senger",
-      "Loan": {
-        "Product": "Motorboat",
-        "EnvironmentalImpact": 0,
-        "Amount": 2804400
+      "name": "Dejon Senger",
+      "loan": {
+        "product": "Motorboat",
+        "environmentalImpact": 0,
+        "amount": 2804400
       },
-      "Personality": "Practical",
-      "Capital": 1389000,
-      "Income": 56600,
-      "MonthlyExpenses": 70000,
-      "NumberOfKids": 9,
-      "Mortgage": 8692000,
-      "HasStudentLoans": false
+      "personality": "Practical",
+      "capital": 1389000,
+      "income": 56600,
+      "monthlyExpenses": 70000,
+      "numberOfKids": 9,
+      "mortgage": 8692000,
+      "hasStudentLoans": false
     },
     {
-      "Name": "Bartholome Bogan",
-      "Loan": {
-        "Product": "Car charger",
-        "EnvironmentalImpact": 100,
-        "Amount": 41600
+      "name": "Bartholome Bogan",
+      "loan": {
+        "product": "Car charger",
+        "environmentalImpact": 100,
+        "amount": 41600
       },
-      "Personality": "RiskTaker",
-      "Capital": 664400,
-      "Income": 29700,
-      "MonthlyExpenses": 42100,
-      "NumberOfKids": 0,
-      "Mortgage": 3822500,
-      "HasStudentLoans": true
+      "personality": "RiskTaker",
+      "capital": 664400,
+      "income": 29700,
+      "monthlyExpenses": 42100,
+      "numberOfKids": 0,
+      "mortgage": 3822500,
+      "hasStudentLoans": true
     },
     {
-      "Name": "Julius Konopelski",
-      "Loan": {
-        "Product": "Motorboat",
-        "EnvironmentalImpact": 0,
-        "Amount": 3758800
+      "name": "Julius Konopelski",
+      "loan": {
+        "product": "Motorboat",
+        "environmentalImpact": 0,
+        "amount": 3758800
       },
-      "Personality": "Spontaneous",
-      "Capital": 4099100,
-      "Income": 12700,
-      "MonthlyExpenses": 37500,
-      "NumberOfKids": 4,
-      "Mortgage": 1133600,
-      "HasStudentLoans": true
+      "personality": "Spontaneous",
+      "capital": 4099100,
+      "income": 12700,
+      "monthlyExpenses": 37500,
+      "numberOfKids": 4,
+      "mortgage": 1133600,
+      "hasStudentLoans": true
     },
     {
-      "Name": "Jany Lakin",
-      "Loan": {
-        "Product": "Electric car",
-        "EnvironmentalImpact": 100,
-        "Amount": 336200
+      "name": "Jany Lakin",
+      "loan": {
+        "product": "Electric car",
+        "environmentalImpact": 100,
+        "amount": 336200
       },
-      "Personality": "Innovative",
-      "Capital": 3382900,
-      "Income": 61600,
-      "MonthlyExpenses": 76700,
-      "NumberOfKids": 9,
-      "Mortgage": 9509800,
-      "HasStudentLoans": false
+      "personality": "Innovative",
+      "capital": 3382900,
+      "income": 61600,
+      "monthlyExpenses": 76700,
+      "numberOfKids": 9,
+      "mortgage": 9509800,
+      "hasStudentLoans": false
     }
   ]
 }
