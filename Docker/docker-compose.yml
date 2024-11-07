@@ -7,7 +7,7 @@ services:
       - '8080:8080'
     environment:
       - DB_CONNECTION_STRING=Server=db;Database=Considition2024;User Id=sa;Password=Kalle123!;TrustServerCertificate=True;
-      - CONSIDITION_API_KEY=[YOUR API KEY]
+      - CONSIDITION_API_KEY=d6b11135-fd26-4526-86f3-e445466c9616
     depends_on:
       - db
     restart: unless-stopped
